@@ -2,13 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: lato
+    font-family: "Poppins", sans-serif;
+    font-style: normal
   }
   body{
     height: 100vh;
     background-image: url(Frame\ 4.png);
     background-image: no-repeat;
     background-size: cover;
+   ;
   }
 
   nav{ 
