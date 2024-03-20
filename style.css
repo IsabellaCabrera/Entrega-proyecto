@@ -199,7 +199,7 @@ p {
   border-radius: 3rem;
   width: 300px
 }
-.titleA{
+.Us__titleA{
  font-size: 3rem;
  color: rgba(181, 153, 226, 1) ;
  margin-left: -3.75rem;
@@ -251,7 +251,7 @@ p {
  justify-content: center;
  color: white;
 }
-.titleB{
+.Us__titleB{
   font-size: 3rem;
   color: rgba(181, 153, 226, 1) ;
   margin-left: 10rem;

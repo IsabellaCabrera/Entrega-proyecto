@@ -54,7 +54,9 @@
     width: 100%;
     transition: 0.5s;
   }
-  
+  .search-bar{
+    margin-top: .32rem ;
+  }
   .usser{
     width: 60px;
     border-radius: 5rem;
@@ -98,7 +100,7 @@
   justify-content: center;
   }
 
-  .productos li.producto{
+  .productos li.productos__producto{
     width: 15.625rem;
    margin: 0.625rem;
    margin-bottom: 10rem;
@@ -111,13 +113,13 @@
    
   }
 
-  .productos li.producto img{
+  .productos li.productos__producto img{
     border-radius: 0.625rem;
     height: 9.375rem;
     object-fit: cover;
   }
 
-  .productos li.producto h3{
+  .productos li.productos__producto h3{
     font-size: 1rem;
     margin-top: 0.625rem;
     margin-bottom: 0.313rem;
