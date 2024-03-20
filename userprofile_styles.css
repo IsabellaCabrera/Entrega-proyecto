@@ -133,10 +133,10 @@
   .in {
     background-color: #eee;
     border: none;
-    margin: 2px 0;
-    padding: 12px 30px;
-    font-size: 25px;
-    border-radius: 30px;
+    margin: 0.125rem 0;
+    padding: 0.75rem 1.875rem;
+    font-size: 1.563rem;
+    border-radius: 1.875rem;
     outline: none;
     font-size: 0.7rem;
     display: flex;
@@ -150,10 +150,10 @@
   .in2 {
     background-color: #eee;
     border: none;
-    margin: 2px 0;
-    padding: 12px 30px;
-    font-size: 25px;
-    border-radius: 30px;
+    margin: 0.125rem 0;
+    padding: 0.75rem 1.875rem;
+    font-size: 1.563rem;
+    border-radius: 1.875rem;
     outline: none;
     font-size: 0.7rem;
     display: flex;
@@ -221,7 +221,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 700;
     font-style: normal;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.031rem;
   }
   .card_pfp-desc {
     margin-top: 1.3vh;
@@ -234,7 +234,7 @@
     font-family: "Poppins", sans-serif;
     font-weight: 600;
     font-style: normal;
-    border: 1px solid transparent;
+    border: 0.063rem solid transparent;
     border-radius: 1.875rem;
     margin-top: 0.625rem;
     cursor: pointer;

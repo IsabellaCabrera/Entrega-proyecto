@@ -308,7 +308,7 @@
     width:10px;
     background-color:#6c6c6c;
     border-radius:60%;
-    border:2px solid;
+    border:0.125rem solid;
     color:#c8c7c7;
   }
   .gender-btn-unselected {
@@ -316,7 +316,7 @@
     height:1.25vh;
     width:0.69vw;
     border-radius:60%;
-    border:2px solid;
+    border:0.125rem solid;
     color:#c8c7c7;
     background-color:#c8c7c7;
   }
