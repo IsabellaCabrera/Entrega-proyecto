@@ -15,15 +15,16 @@
     font-family: "Poppins", sans-serif;
     font-style: normal;
   }
-
+  
   nav{ 
     display: flex;
-    padding:  2% 6%;
+    padding:  1rem 4rem;
     justify-content: space-between;
     align-items: center;
   }
   nav img{
     width: 150px
+    
   }
   .nav-links{
     flex:1;
@@ -33,13 +34,13 @@
   .nav-links ul li{
    list-style: none;
    display: inline-block ;
-   padding: 8px 12px;
+   padding: 0.5rem 0.75rem;
    position: relative;  
   }
   .nav-links ul li a{
    color: white;
    text-decoration: none;
-   font-size: 15px; 
+   font-size: 0.938rem; 
    font-weight: bold;
    
   }
@@ -60,17 +61,17 @@
   
   .usser{
     width: 60px;
-    border-radius: 1.25rem;
+    border-radius: 5rem;
   }
 
   .text-box h1{
     color: white;
-    font-size: 6rem;
+    font-size: 4rem;
     width: 30rem;
     position: relative;
     padding: 0.125rem;
     text-align: center;
-    margin: 12rem auto 2rem auto;
+    margin: 5rem auto 3rem auto;
 
   }
 

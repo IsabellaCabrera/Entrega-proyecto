@@ -10,12 +10,12 @@
     background-image: url(Frame\ 4.png);
     background-image: no-repeat;
     background-size: cover;
-   ;
+  
   }
 
   nav{ 
     display: flex;
-    padding:  2% 6%;
+    padding:  1rem 4rem;
     justify-content: space-between;
     align-items: center;
   }
@@ -30,13 +30,13 @@
   .nav-links ul li{
    list-style: none;
    display: inline-block ;
-   padding: 8px 12px;
+   padding: 0.5rem 0.75rem;
    position: relative;  
   }
   .nav-links ul li a{
    color: white;
    text-decoration: none;
-   font-size: 15px; 
+   font-size: 0.938rem; 
    font-weight: bold;
    
   }
@@ -57,7 +57,7 @@
   
   .usser{
     width: 60px;
-    border-radius: 1.25rem;
+    border-radius: 5rem;
   }
 
   h1{
@@ -67,7 +67,7 @@
     position: relative;
     padding: 0.125rem;
     text-align: center;
-    margin: 12rem auto 2rem auto;
+    margin: 7rem auto 2rem auto;
 
   }
   
@@ -78,7 +78,7 @@
     position: relative;
     padding: 0.125rem;
     text-align: center;
-    margin: 12rem auto 2rem auto; 
+    margin: 5rem auto 3rem auto; 
     padding-bottom: 4rem;
   }
 
@@ -101,18 +101,14 @@
   .productos li.producto{
     width: 15.625rem;
    margin: 0.625rem;
-   margin-bottom: 4rem;
+   margin-bottom: 10rem;
    padding: 1.25rem ;
    border-radius: 0.625rem;
    background-color: rgba(12, 2, 28, .4);
    box-shadow: 5px 7px 15px rgba(181, 153, 226, 1) ;
    text-align: center;
-   transition: transform 0.6s ease;
    
-  }
-
-  .productos :hover{
-    transform: translateY(-20px)
+   
   }
 
   .productos li.producto img{
@@ -136,6 +132,7 @@
   .footer-content{
     display: flex;
     justify-content: space-around;
+  
     max-width: 75rem;
     margin: 0 auto;
   }
@@ -175,5 +172,4 @@
     transition: color 0.3s;
   }
   .social-icons .icons a:hover {
-    color: blueviolet;
-  }
+    color: blueviolet;}
